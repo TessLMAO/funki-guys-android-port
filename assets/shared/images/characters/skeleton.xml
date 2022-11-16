@@ -1,0 +1,73 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="skeleton.png">
+<SubTexture name="skeleton idle idle0000" x="0" y="0" width="502" height="460" frameX="-26" frameY="-62" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0001" x="0" y="0" width="502" height="460" frameX="-26" frameY="-62" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0002" x="502" y="0" width="528" height="460" frameX="-6" frameY="-52" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0003" x="502" y="0" width="528" height="460" frameX="-6" frameY="-52" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0004" x="1030" y="0" width="432" height="478" frameX="-116" frameY="-24" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0005" x="1030" y="0" width="432" height="478" frameX="-116" frameY="-24" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0006" x="1462" y="0" width="420" height="476" frameX="-131" frameY="-16" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0007" x="1462" y="0" width="420" height="476" frameX="-131" frameY="-16" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0008" x="1882" y="0" width="470" height="486" frameX="-78" frameY="-11" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0009" x="1882" y="0" width="470" height="486" frameX="-78" frameY="-11" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0010" x="0" y="486" width="464" height="486" frameX="-75" frameY="-25" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0011" x="0" y="486" width="464" height="486" frameX="-75" frameY="-25" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0012" x="464" y="486" width="425" height="463" frameX="-109" frameY="-53" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton idle idle0013" x="464" y="486" width="425" height="463" frameX="-109" frameY="-53" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0000" x="889" y="486" width="631" height="364" frameX="-54" frameY="-162" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0001" x="889" y="486" width="631" height="364" frameX="-54" frameY="-162" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0002" x="1520" y="486" width="657" height="358" frameX="-34" frameY="-158" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0003" x="1520" y="486" width="657" height="358" frameX="-34" frameY="-158" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0004" x="2177" y="486" width="549" height="379" frameX="-144" frameY="-127" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0005" x="2177" y="486" width="549" height="379" frameX="-144" frameY="-127" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0006" x="0" y="972" width="523" height="368" frameX="-173" frameY="-128" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0007" x="0" y="972" width="523" height="368" frameX="-173" frameY="-128" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0008" x="523" y="972" width="594" height="346" frameX="-107" frameY="-141" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0009" x="523" y="972" width="594" height="346" frameX="-107" frameY="-141" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0010" x="1117" y="972" width="591" height="373" frameX="-109" frameY="-143" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0011" x="1117" y="972" width="591" height="373" frameX="-109" frameY="-143" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0012" x="1708" y="972" width="596" height="367" frameX="-100" frameY="-148" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton right0013" x="1708" y="972" width="596" height="367" frameX="-100" frameY="-148" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0000" x="2304" y="972" width="554" height="318" frameX="-54" frameY="-208" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0001" x="2304" y="972" width="554" height="318" frameX="-54" frameY="-208" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0002" x="0" y="1345" width="582" height="305" frameX="-33" frameY="-211" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0003" x="0" y="1345" width="582" height="305" frameX="-33" frameY="-211" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0004" x="582" y="1345" width="456" height="285" frameX="-162" frameY="-217" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0005" x="582" y="1345" width="456" height="285" frameX="-162" frameY="-217" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0006" x="1038" y="1345" width="444" height="283" frameX="-175" frameY="-214" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0007" x="1038" y="1345" width="444" height="283" frameX="-175" frameY="-214" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0008" x="1482" y="1345" width="505" height="297" frameX="-113" frameY="-208" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0009" x="1482" y="1345" width="505" height="297" frameX="-113" frameY="-208" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0010" x="1987" y="1345" width="507" height="309" frameX="-109" frameY="-209" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0011" x="1987" y="1345" width="507" height="309" frameX="-109" frameY="-209" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0012" x="0" y="1654" width="489" height="306" frameX="-123" frameY="-209" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton down0013" x="0" y="1654" width="489" height="306" frameX="-123" frameY="-209" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0000" x="489" y="1654" width="425" height="507" frameX="-50" frameY="-19" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0001" x="489" y="1654" width="425" height="507" frameX="-50" frameY="-19" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0002" x="914" y="1654" width="456" height="502" frameX="-34" frameY="-14" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0003" x="914" y="1654" width="456" height="502" frameX="-34" frameY="-14" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0004" x="1370" y="1654" width="470" height="494" frameX="-20" frameY="-12" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0005" x="1370" y="1654" width="470" height="494" frameX="-20" frameY="-12" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0006" x="1840" y="1654" width="497" height="477" frameX="-12" frameY="-19" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0007" x="1840" y="1654" width="497" height="477" frameX="-12" frameY="-19" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0008" x="0" y="2161" width="509" height="463" frameX="-10" frameY="-24" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0009" x="0" y="2161" width="509" height="463" frameX="-10" frameY="-24" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0010" x="509" y="2161" width="480" height="491" frameX="-26" frameY="-28" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0011" x="509" y="2161" width="480" height="491" frameX="-26" frameY="-28" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0012" x="989" y="2161" width="443" height="491" frameX="-42" frameY="-24" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton left0013" x="989" y="2161" width="443" height="491" frameX="-42" frameY="-24" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0000" x="1432" y="2161" width="600" height="486" frameX="-53" frameY="-40" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0001" x="1432" y="2161" width="600" height="486" frameX="-53" frameY="-40" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0002" x="2032" y="2161" width="662" height="500" frameX="-9" frameY="-17" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0003" x="2032" y="2161" width="662" height="500" frameX="-9" frameY="-17" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0004" x="0" y="2661" width="551" height="490" frameX="-128" frameY="-14" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0005" x="0" y="2661" width="551" height="490" frameX="-128" frameY="-14" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0006" x="551" y="2661" width="521" height="488" frameX="-156" frameY="-8" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0007" x="551" y="2661" width="521" height="488" frameX="-156" frameY="-8" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0008" x="1072" y="2661" width="571" height="472" frameX="-101" frameY="-15" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0009" x="1072" y="2661" width="571" height="472" frameX="-101" frameY="-15" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0010" x="1643" y="2661" width="527" height="487" frameX="-132" frameY="-23" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0011" x="1643" y="2661" width="527" height="487" frameX="-132" frameY="-23" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0012" x="2170" y="2661" width="513" height="484" frameX="-149" frameY="-31" frameWidth="692" frameHeight="518" />
+<SubTexture name="skeleton up0013" x="2170" y="2661" width="513" height="484" frameX="-149" frameY="-31" frameWidth="692" frameHeight="518" />
+</TextureAtlas>
