@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "horror guys idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-80,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "horror guys left"
+		},
+		{
+			"offsets": [
+				17,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "horror guys right"
+		},
+		{
+			"offsets": [
+				-10,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "horror guys down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				9
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "horror guys up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/horror_guys",
+	"position": [
+		250,
+		-100
+	],
+	"healthicon": "fall_h",
+	"flip_x": false,
+	"healthbar_colors": [
+		83,
+		76,
+		86
+	],
+	"camera_position": [
+		-390,
+		-420
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
