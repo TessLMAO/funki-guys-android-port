@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="OrangeGuy.png">
+<SubTexture name="Orange0000" x="0" y="0" width="199" height="220" frameX="-17" frameY="-30" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0001" x="0" y="0" width="199" height="220" frameX="-17" frameY="-30" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0002" x="199" y="0" width="208" height="198" frameX="-18" frameY="-52" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0003" x="199" y="0" width="208" height="198" frameX="-18" frameY="-52" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0004" x="407" y="0" width="215" height="195" frameX="-17" frameY="-55" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0005" x="407" y="0" width="215" height="195" frameX="-17" frameY="-55" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0006" x="0" y="220" width="216" height="196" frameX="-18" frameY="-54" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0007" x="0" y="220" width="216" height="196" frameX="-18" frameY="-54" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0008" x="216" y="220" width="210" height="213" frameX="-17" frameY="-37" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0009" x="216" y="220" width="210" height="213" frameX="-17" frameY="-37" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0010" x="426" y="220" width="201" height="241" frameX="-18" frameY="-9" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0011" x="426" y="220" width="201" height="241" frameX="-18" frameY="-9" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0012" x="0" y="461" width="198" height="239" frameX="-17" frameY="-11" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0013" x="0" y="461" width="198" height="239" frameX="-17" frameY="-11" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0014" x="198" y="461" width="198" height="237" frameX="-18" frameY="-13" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0015" x="198" y="461" width="198" height="237" frameX="-18" frameY="-13" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0016" x="396" y="461" width="199" height="235" frameX="-17" frameY="-15" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0017" x="396" y="461" width="199" height="235" frameX="-17" frameY="-15" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0018" x="0" y="700" width="195" height="233" frameX="-18" frameY="-17" frameWidth="232" frameHeight="248" />
+<SubTexture name="Orange0019" x="0" y="700" width="195" height="233" frameX="-18" frameY="-17" frameWidth="232" frameHeight="248" />
+</TextureAtlas>
